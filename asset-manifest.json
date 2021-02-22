@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/technopreneur/static/css/main.f6cbb98b.chunk.css",
+    "main.js": "/technopreneur/static/js/main.9588add4.chunk.js",
+    "main.js.map": "/technopreneur/static/js/main.9588add4.chunk.js.map",
+    "runtime-main.js": "/technopreneur/static/js/runtime-main.be7794c9.js",
+    "runtime-main.js.map": "/technopreneur/static/js/runtime-main.be7794c9.js.map",
+    "static/js/2.5ad140ce.chunk.js": "/technopreneur/static/js/2.5ad140ce.chunk.js",
+    "static/js/2.5ad140ce.chunk.js.map": "/technopreneur/static/js/2.5ad140ce.chunk.js.map",
+    "static/js/3.b7490335.chunk.js": "/technopreneur/static/js/3.b7490335.chunk.js",
+    "static/js/3.b7490335.chunk.js.map": "/technopreneur/static/js/3.b7490335.chunk.js.map",
+    "index.html": "/technopreneur/index.html",
+    "static/css/main.f6cbb98b.chunk.css.map": "/technopreneur/static/css/main.f6cbb98b.chunk.css.map",
+    "static/js/2.5ad140ce.chunk.js.LICENSE.txt": "/technopreneur/static/js/2.5ad140ce.chunk.js.LICENSE.txt",
+    "static/media/Frame-1.d33148e8.png": "/technopreneur/static/media/Frame-1.d33148e8.png",
+    "static/media/Frame-2.6c5336f5.png": "/technopreneur/static/media/Frame-2.6c5336f5.png",
+    "static/media/Frame-3.8521390b.png": "/technopreneur/static/media/Frame-3.8521390b.png",
+    "static/media/Frame.fcd48cee.png": "/technopreneur/static/media/Frame.fcd48cee.png",
+    "static/media/Organizing projects-cuate 1.263ade41.png": "/technopreneur/static/media/Organizing projects-cuate 1.263ade41.png",
+    "static/media/Saly-1.ffacce98.png": "/technopreneur/static/media/Saly-1.ffacce98.png",
+    "static/media/Saly-10.ecb25392.png": "/technopreneur/static/media/Saly-10.ecb25392.png",
+    "static/media/Saly-13.d4f1d685.png": "/technopreneur/static/media/Saly-13.d4f1d685.png",
+    "static/media/Saly-15.33f06216.png": "/technopreneur/static/media/Saly-15.33f06216.png",
+    "static/media/Saly-26.c0add579.png": "/technopreneur/static/media/Saly-26.c0add579.png",
+    "static/media/grey-square.698e1291.jpg": "/technopreneur/static/media/grey-square.698e1291.jpg",
+    "static/media/logo.198babbd.png": "/technopreneur/static/media/logo.198babbd.png",
+    "static/media/meeting.870153cd.jpeg": "/technopreneur/static/media/meeting.870153cd.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be7794c9.js",
+    "static/js/2.5ad140ce.chunk.js",
+    "static/css/main.f6cbb98b.chunk.css",
+    "static/js/main.9588add4.chunk.js"
+  ]
+}
